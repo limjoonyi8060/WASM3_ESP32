@@ -1,0 +1,12 @@
+millis
+delay
+pinMode
+digitalWrite
+getPinLED
+getGreeting
+getx
+gety
+getz
+gettemp
+print
+printn
